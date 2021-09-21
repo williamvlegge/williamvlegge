@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @williamvlegge
+- 👀 I’m interested in PIC programming in C
+- 🌱 I’m currently learning Mikro C pro for PIC32
